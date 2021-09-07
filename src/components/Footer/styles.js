@@ -6,6 +6,8 @@ export default makeStyles(()=> ({
         flexDirection: 'row',
         justifyContent: 'space-evenly',
         alignItems: 'center',
-        marginBottom: '2rem'
+        paddingBottom: '1rem',
+        paddingTop: '1rem',
+        backgroundColor: '#ddd'
     }
 }));

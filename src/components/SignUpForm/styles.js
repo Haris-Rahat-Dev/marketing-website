@@ -16,7 +16,8 @@ export default makeStyles(()=> ({
         width: '20rem'
     },
     input: {
-        marginBottom: '1.5rem'
+        marginBottom: '1.5rem',
+        marginTop: '1rem'
     },
     text: {
         marginTop: '1rem',

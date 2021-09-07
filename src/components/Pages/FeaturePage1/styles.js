@@ -2,7 +2,7 @@ import {makeStyles} from "@material-ui/styles";
 
 export default makeStyles(()=>({
     container: {
-        height: '80vh',
+        height: '84vh',
         display: 'flex',
         flexDirection: 'row',
         justifyContent: 'space-evenly',
